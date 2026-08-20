@@ -15,7 +15,7 @@ from langchain_core.messages import AIMessage, BaseMessage, HumanMessage
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from pipelines import ChatResponse, StandardPipeline
 from retrieval import Retriever
-from vectorstore import MilvusVectorStore
+from vectorstore import MilvusIndexConfig, MilvusSearchConfig, MilvusVectorStore
 
 
 class ChatSession:
@@ -83,7 +83,22 @@ def build_application(settings: Settings | None = None) -> RAGApplication:
         api_key=resolved_settings.openai_api_key,
     )
 
-    vector_store = MilvusVectorStore(resolved_settings.milvus_collection)
+    vector_store = MilvusVectorStore(
+        resolved_settings.milvus_collection,
+        index_config=MilvusIndexConfig(
+            hnsw_m=resolved_settings.milvus_hnsw_m,
+            hnsw_ef_construction=resolved_settings.milvus_hnsw_ef_construction,
+            bm25_k1=resolved_settings.milvus_bm25_k1,
+            bm25_b=resolved_settings.milvus_bm25_b,
+        ),
+        search_config=MilvusSearchConfig(
+            hnsw_ef=resolved_settings.milvus_hnsw_ef,
+            sparse_drop_ratio=resolved_settings.milvus_sparse_drop_ratio,
+            candidate_multiplier=resolved_settings.milvus_candidate_multiplier,
+            rrf_k=resolved_settings.milvus_rrf_k,
+            consistency_level=resolved_settings.milvus_consistency_level,
+        ),
+    )
     vector_store.connect(
         resolved_settings.milvus_url,
         resolved_settings.milvus_port,

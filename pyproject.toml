@@ -13,6 +13,7 @@ dependencies = [
     "langchain-text-splitters>=1.1.2",
     "pymilvus>=3.0.0",
     "pydantic-settings>=2.13.1",
+    "portalocker>=4.1.0",
 ]
 
 [project.scripts]
@@ -24,4 +25,16 @@ requires = ["uv_build>=0.12.3,<0.13.0"]
 build-backend = "uv_build"
 
 [tool.uv.build-backend]
-module-name = ["app", "configs", "generation", "index", "pipelines", "retrieval", "utils", "vectorstore"]
+module-name = ["app", "configs", "evaluation", "generation", "index", "pipelines", "retrieval", "utils", "vectorstore"]
+
+[dependency-groups]
+dev = [
+    "deepeval>=4.1.8",
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+markers = [
+    "milvus_integration: opt-in live Milvus index and hybrid-search test",
+    "rag_eval: opt-in live RAG evaluation using OpenAI and Milvus",
+]

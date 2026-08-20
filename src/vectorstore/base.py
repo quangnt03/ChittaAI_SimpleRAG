@@ -15,6 +15,7 @@ class Embedding:
     text: str = ""
     metadata: dict[str, Any] = field(default_factory=dict)
     score: float | None = None
+    score_kind: str = "cosine"
 
 
 class BaseVectorStore(ABC):
@@ -34,6 +35,14 @@ class BaseVectorStore(ABC):
     def search(self, query: Embedding, top_k: int) -> list[Embedding]:
         """Return the ``top_k`` stored embeddings nearest to ``query``."""
         raise NotImplementedError
+
+    def hybrid_search(self, query: Embedding, top_k: int) -> list[Embedding]:
+        """Search dense and lexical representations when the backend supports it.
+
+        Backends without native hybrid search retain useful behavior by falling
+        back to their dense-vector implementation.
+        """
+        return self.search(query, top_k)
 
     @abstractmethod
     def delete_document(self, document_id: str) -> None:

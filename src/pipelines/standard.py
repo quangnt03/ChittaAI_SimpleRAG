@@ -128,8 +128,12 @@ class StandardPipeline:
     def search(
         self, query_embedding: Sequence[float], *, top_k: int = 4
     ) -> list[SearchResult]:
-        """Find the most relevant documents for ``query_embedding``."""
+        """Run dense-only search for an already embedded query."""
         return self._retriever.search(query_embedding, top_k=top_k)
+
+    def retrieve(self, query: str, *, top_k: int = 4) -> list[SearchResult]:
+        """Run the retriever's complete query flow, including hybrid search."""
+        return self._retriever.retrieve(query, top_k=top_k)
 
     def generate(self, query: str, matches: Sequence[SearchResult]) -> str:
         """Generate an answer grounded in the documents from ``matches``."""
@@ -140,8 +144,7 @@ class StandardPipeline:
 
     def run(self, query: str, *, top_k: int = 4) -> str:
         """Run embedding, search, and generation for one query."""
-        query_embedding = self.embed_query(query)
-        matches = self.search(query_embedding, top_k=top_k)
+        matches = self.retrieve(query, top_k=top_k)
         return self.generate(query, matches)
 
     def run_turn(
@@ -152,8 +155,7 @@ class StandardPipeline:
         top_k: int = 4,
     ) -> ChatResponse:
         """Run one citation-aware turn using temporary conversation history."""
-        query_embedding = self.embed_query(query)
-        matches = self.search(query_embedding, top_k=top_k)
+        matches = self.retrieve(query, top_k=top_k)
         documents, citations = _prepare_citations(matches)
         message = self._generator.generate_turn(
             query,
