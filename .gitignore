@@ -13,4 +13,4 @@ wheels/
 .env
 .env.*
 !.env.example
-volumes/*
+volumes/

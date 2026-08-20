@@ -3,10 +3,43 @@
 A minimal RAG implementation with OpenAI embeddings and chat generation backed
 by Milvus dense retrieval.
 
-## Usage
+## Chat CLI
 
 Configuration is loaded from `.env.local`. The existing `OPENAI_API_KEY` is
-used by the OpenAI clients; the application never reads or prints it directly.
+used by the OpenAI clients; 
+
+Documents will live in and be ingested from `data` directory. Supported document types include: `.txt`.
+Please locate all documents in `data` before start the application
+
+Start Milvus, then open the interactive CLI:
+
+```console
+docker compose up -d
+uv run app
+```
+
+`uv run rag-chitta` is an equivalent descriptive alias.
+
+Each process creates exactly one temporary in-memory chat session. Follow-up
+messages see earlier turns from that run, and the history is discarded on
+`/exit`, `/quit`, Ctrl+C, or EOF. Every response is followed by the related
+retrieved document citations, relevance scores, and quoted source excerpts.
+
+Optional text can be indexed before the session starts:
+
+```console
+uv run app --document-text "Chitta uses Milvus for retrieval."
+```
+
+Pass a positional message for one-turn, non-interactive use:
+
+```console
+uv run app "What does the source say?"
+```
+
+`uv run python main.py` is also available as a development entry point.
+
+## Python API
 
 ```python
 from langchain_core.documents import Document
@@ -14,21 +47,19 @@ from langchain_core.documents import Document
 from src.app import build_application
 
 application = build_application()
-application.index([Document(page_content="Your source text")])
+application.index(
+    [
+        Document(
+            page_content="Your source text",
+            metadata={"source": "example.txt"},
+        )
+    ]
+)
 
-question = "What does the source say?"
-answer = application.query(question, top_k=4)
-
-# Each stage is also available independently.
-query_embedding = application.pipeline.embed_query(question)
-matches = application.pipeline.search(query_embedding, top_k=4)
-answer = application.pipeline.generate(question, matches)
-```
-
-The same flow is available from the command line:
-
-```console
-uv run python src/main.py --document-text "Your source text" "What does the source say?"
+session = application.new_chat_session(top_k=4)
+response = session.send("What does the source say?")
+print(response.message)
+print(response.citations)
 ```
 
 Retrieval confidence is Milvus cosine similarity normalized from `[-1, 1]` to

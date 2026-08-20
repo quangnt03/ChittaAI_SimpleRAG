@@ -17,20 +17,41 @@ class Generator(BaseGenerator):
 
     def generate(self, query: str, context: Sequence[Document]) -> str:
         """Answer one query using only the supplied retrieved context."""
+        return self.generate_turn(query, context)
+
+    def generate_turn(
+        self,
+        query: str,
+        context: Sequence[Document],
+        *,
+        history: Sequence[BaseMessage] = (),
+    ) -> str:
+        """Answer one turn using retrieved context and temporary history."""
         context_text = "\n\n".join(
-            f"[{position}] {document.page_content}"
+            (
+                f"[{document.metadata.get('citation_number', position)}] "
+                f"Source: {document.metadata.get('citation_source', 'document')}\n"
+                f"{document.page_content}"
+            )
             for position, document in enumerate(context, start=1)
-        )
+        ) or "No related documents were retrieved."
         return self.chat(
             [
                 SystemMessage(
                     content=(
-                        "Answer using only the supplied context. "
-                        "If the context is insufficient, say so."
+                        "Answer using only the retrieved context in the latest "
+                        "user message. Conversation history may clarify what the "
+                        "user means, but it is not evidence. Cite every supported "
+                        "claim with the matching bracketed source number, such as "
+                        "[1]. If the context is insufficient, say so."
                     )
                 ),
+                *history,
                 HumanMessage(
-                    content=f"Context:\n{context_text}\n\nQuestion: {query}"
+                    content=(
+                        f"Retrieved context:\n{context_text}\n\n"
+                        f"Current question: {query}"
+                    )
                 ),
             ]
         )
