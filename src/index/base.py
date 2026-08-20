@@ -19,10 +19,6 @@ class BaseIndexer(ABC):
         raise NotImplementedError
     
     @abstractmethod
-    def splitter(self, documents: Sequence[Document]) -> list[str]:
-        """Index ``documents`` and return their backend-assigned identifiers.
-
-        Implementations are responsible for any chunking, embedding, and
-        persistence required by their indexing backend.
-        """
+    def splitter(self, documents: Sequence[Document]) -> list[Document]:
+        """Split ``documents`` into the chunks that will be indexed."""
         raise NotImplementedError

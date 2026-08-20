@@ -1,0 +1,600 @@
+Passage 001: Amber Observatory
+Amber Observatory is a fictional astronomical field station located in North Ridge. Its catalog code is OBS-001; it monitors variable stars with the Meridian instrument, and publishes a reviewed dataset every 18 days.
+
+Passage 002: Birch Observatory
+Birch Observatory is a fictional astronomical field station located in East Basin. Its catalog code is OBS-002; it monitors lunar shadows with the Aurora instrument, and publishes a reviewed dataset every 29 days.
+
+Passage 003: Cobalt Observatory
+Cobalt Observatory is a fictional astronomical field station located in Cedar Valley. Its catalog code is OBS-003; it monitors radio bursts with the Beacon instrument, and publishes a reviewed dataset every 40 days.
+
+Passage 004: Driftwood Observatory
+Driftwood Observatory is a fictional astronomical field station located in Moonlit Plateau. Its catalog code is OBS-004; it monitors nearby comets with the Delta instrument, and publishes a reviewed dataset every 10 days.
+
+Passage 005: Ember Observatory
+Ember Observatory is a fictional astronomical field station located in Copper Plain. Its catalog code is OBS-005; it monitors solar flares with the Echo instrument, and publishes a reviewed dataset every 21 days.
+
+Passage 006: Fern Observatory
+Fern Observatory is a fictional astronomical field station located in Fernwater District. Its catalog code is OBS-006; it monitors meteor trails with the Flux instrument, and publishes a reviewed dataset every 32 days.
+
+Passage 007: Granite Observatory
+Granite Observatory is a fictional astronomical field station located in Granite Pass. Its catalog code is OBS-007; it monitors binary systems with the Grove instrument, and publishes a reviewed dataset every 43 days.
+
+Passage 008: Harbor Observatory
+Harbor Observatory is a fictional astronomical field station located in South Harbor. Its catalog code is OBS-008; it monitors dust clouds with the Helix instrument, and publishes a reviewed dataset every 13 days.
+
+Passage 009: Indigo Observatory
+Indigo Observatory is a fictional astronomical field station located in Indigo Quarter. Its catalog code is OBS-009; it monitors planet transits with the Ion instrument, and publishes a reviewed dataset every 24 days.
+
+Passage 010: Juniper Observatory
+Juniper Observatory is a fictional astronomical field station located in Juniper Bend. Its catalog code is OBS-010; it monitors auroral spectra with the Jade instrument, and publishes a reviewed dataset every 35 days.
+
+Passage 011: Kestrel Observatory
+Kestrel Observatory is a fictional astronomical field station located in Kestrel Point. Its catalog code is OBS-011; it monitors pulsar timing with the Keystone instrument, and publishes a reviewed dataset every 46 days.
+
+Passage 012: Linden Observatory
+Linden Observatory is a fictional astronomical field station located in Linden Terrace. Its catalog code is OBS-012; it monitors galactic clusters with the Lumen instrument, and publishes a reviewed dataset every 16 days.
+
+Passage 013: Marigold Observatory
+Marigold Observatory is a fictional astronomical field station located in Marigold Fields. Its catalog code is OBS-013; it monitors asteroid rotation with the Mosaic instrument, and publishes a reviewed dataset every 27 days.
+
+Passage 014: Nimbus Observatory
+Nimbus Observatory is a fictional astronomical field station located in Nimbus Heights. Its catalog code is OBS-014; it monitors infrared nebulae with the Nova instrument, and publishes a reviewed dataset every 38 days.
+
+Passage 015: Orchid Observatory
+Orchid Observatory is a fictional astronomical field station located in Orchid Crossing. Its catalog code is OBS-015; it monitors cosmic rays with the Orbit instrument, and publishes a reviewed dataset every 8 days.
+
+Passage 016: Pine Observatory
+Pine Observatory is a fictional astronomical field station located in Pine Hollow. Its catalog code is OBS-016; it monitors magnetic storms with the Pulse instrument, and publishes a reviewed dataset every 19 days.
+
+Passage 017: Quartz Observatory
+Quartz Observatory is a fictional astronomical field station located in Quartz Shore. Its catalog code is OBS-017; it monitors stellar nurseries with the Quill instrument, and publishes a reviewed dataset every 30 days.
+
+Passage 018: Rowan Observatory
+Rowan Observatory is a fictional astronomical field station located in Rowan Meadow. Its catalog code is OBS-018; it monitors exoplanet atmospheres with the Relay instrument, and publishes a reviewed dataset every 41 days.
+
+Passage 019: Saffron Observatory
+Saffron Observatory is a fictional astronomical field station located in Saffron Hill. Its catalog code is OBS-019; it monitors sky brightness with the Solace instrument, and publishes a reviewed dataset every 11 days.
+
+Passage 020: Willow Observatory
+Willow Observatory is a fictional astronomical field station located in Willow Reach. Its catalog code is OBS-020; it monitors orbital debris with the Trellis instrument, and publishes a reviewed dataset every 22 days.
+
+Passage 021: Amber Reserve
+Amber Reserve is a fictional protected habitat reserve located in North Ridge. Its catalog code is ECO-021; it protects salt-marsh birds with the Meridian field survey, and issues a biodiversity survey every 33 days.
+
+Passage 022: Birch Reserve
+Birch Reserve is a fictional protected habitat reserve located in East Basin. Its catalog code is ECO-022; it protects alpine mosses with the Aurora field survey, and issues a biodiversity survey every 44 days.
+
+Passage 023: Cobalt Reserve
+Cobalt Reserve is a fictional protected habitat reserve located in Cedar Valley. Its catalog code is ECO-023; it protects river otters with the Beacon field survey, and issues a biodiversity survey every 14 days.
+
+Passage 024: Driftwood Reserve
+Driftwood Reserve is a fictional protected habitat reserve located in Moonlit Plateau. Its catalog code is ECO-024; it protects prairie orchids with the Delta field survey, and issues a biodiversity survey every 25 days.
+
+Passage 025: Ember Reserve
+Ember Reserve is a fictional protected habitat reserve located in Copper Plain. Its catalog code is ECO-025; it protects mangrove crabs with the Echo field survey, and issues a biodiversity survey every 36 days.
+
+Passage 026: Fern Reserve
+Fern Reserve is a fictional protected habitat reserve located in Fernwater District. Its catalog code is ECO-026; it protects forest pollinators with the Flux field survey, and issues a biodiversity survey every 47 days.
+
+Passage 027: Granite Reserve
+Granite Reserve is a fictional protected habitat reserve located in Granite Pass. Its catalog code is ECO-027; it protects wetland frogs with the Grove field survey, and issues a biodiversity survey every 17 days.
+
+Passage 028: Harbor Reserve
+Harbor Reserve is a fictional protected habitat reserve located in South Harbor. Its catalog code is ECO-028; it protects coastal grasses with the Helix field survey, and issues a biodiversity survey every 28 days.
+
+Passage 029: Indigo Reserve
+Indigo Reserve is a fictional protected habitat reserve located in Indigo Quarter. Its catalog code is ECO-029; it protects desert lichens with the Ion field survey, and issues a biodiversity survey every 39 days.
+
+Passage 030: Juniper Reserve
+Juniper Reserve is a fictional protected habitat reserve located in Juniper Bend. Its catalog code is ECO-030; it protects meadow butterflies with the Jade field survey, and issues a biodiversity survey every 9 days.
+
+Passage 031: Kestrel Reserve
+Kestrel Reserve is a fictional protected habitat reserve located in Kestrel Point. Its catalog code is ECO-031; it protects cave bats with the Keystone field survey, and issues a biodiversity survey every 20 days.
+
+Passage 032: Linden Reserve
+Linden Reserve is a fictional protected habitat reserve located in Linden Terrace. Its catalog code is ECO-032; it protects tidal shellfish with the Lumen field survey, and issues a biodiversity survey every 31 days.
+
+Passage 033: Marigold Reserve
+Marigold Reserve is a fictional protected habitat reserve located in Marigold Fields. Its catalog code is ECO-033; it protects cedar seedlings with the Mosaic field survey, and issues a biodiversity survey every 42 days.
+
+Passage 034: Nimbus Reserve
+Nimbus Reserve is a fictional protected habitat reserve located in Nimbus Heights. Its catalog code is ECO-034; it protects reed-bed fish with the Nova field survey, and issues a biodiversity survey every 12 days.
+
+Passage 035: Orchid Reserve
+Orchid Reserve is a fictional protected habitat reserve located in Orchid Crossing. Its catalog code is ECO-035; it protects dune beetles with the Orbit field survey, and issues a biodiversity survey every 23 days.
+
+Passage 036: Pine Reserve
+Pine Reserve is a fictional protected habitat reserve located in Pine Hollow. Its catalog code is ECO-036; it protects highland foxes with the Pulse field survey, and issues a biodiversity survey every 34 days.
+
+Passage 037: Quartz Reserve
+Quartz Reserve is a fictional protected habitat reserve located in Quartz Shore. Its catalog code is ECO-037; it protects freshwater mussels with the Quill field survey, and issues a biodiversity survey every 45 days.
+
+Passage 038: Rowan Reserve
+Rowan Reserve is a fictional protected habitat reserve located in Rowan Meadow. Its catalog code is ECO-038; it protects orchard songbirds with the Relay field survey, and issues a biodiversity survey every 15 days.
+
+Passage 039: Saffron Reserve
+Saffron Reserve is a fictional protected habitat reserve located in Saffron Hill. Its catalog code is ECO-039; it protects peatland fungi with the Solace field survey, and issues a biodiversity survey every 26 days.
+
+Passage 040: Willow Reserve
+Willow Reserve is a fictional protected habitat reserve located in Willow Reach. Its catalog code is ECO-040; it protects willow-nesting bees with the Trellis field survey, and issues a biodiversity survey every 37 days.
+
+Passage 041: Amber Service
+Amber Service is a fictional software operations service located in North Ridge. Its catalog code is SVC-041; it validates invoice events with the Meridian rules engine, and produces a reliability report every 7 days.
+
+Passage 042: Birch Service
+Birch Service is a fictional software operations service located in East Basin. Its catalog code is SVC-042; it validates shipment updates with the Aurora rules engine, and produces a reliability report every 18 days.
+
+Passage 043: Cobalt Service
+Cobalt Service is a fictional software operations service located in Cedar Valley. Its catalog code is SVC-043; it validates account permissions with the Beacon rules engine, and produces a reliability report every 29 days.
+
+Passage 044: Driftwood Service
+Driftwood Service is a fictional software operations service located in Moonlit Plateau. Its catalog code is SVC-044; it validates search requests with the Delta rules engine, and produces a reliability report every 40 days.
+
+Passage 045: Ember Service
+Ember Service is a fictional software operations service located in Copper Plain. Its catalog code is SVC-045; it validates sensor messages with the Echo rules engine, and produces a reliability report every 10 days.
+
+Passage 046: Fern Service
+Fern Service is a fictional software operations service located in Fernwater District. Its catalog code is SVC-046; it validates audit records with the Flux rules engine, and produces a reliability report every 21 days.
+
+Passage 047: Granite Service
+Granite Service is a fictional software operations service located in Granite Pass. Its catalog code is SVC-047; it validates support tickets with the Grove rules engine, and produces a reliability report every 32 days.
+
+Passage 048: Harbor Service
+Harbor Service is a fictional software operations service located in South Harbor. Its catalog code is SVC-048; it validates catalog changes with the Helix rules engine, and produces a reliability report every 43 days.
+
+Passage 049: Indigo Service
+Indigo Service is a fictional software operations service located in Indigo Quarter. Its catalog code is SVC-049; it validates payment retries with the Ion rules engine, and produces a reliability report every 13 days.
+
+Passage 050: Juniper Service
+Juniper Service is a fictional software operations service located in Juniper Bend. Its catalog code is SVC-050; it validates backup jobs with the Jade rules engine, and produces a reliability report every 24 days.
+
+Passage 051: Kestrel Service
+Kestrel Service is a fictional software operations service located in Kestrel Point. Its catalog code is SVC-051; it validates device enrollments with the Keystone rules engine, and produces a reliability report every 35 days.
+
+Passage 052: Linden Service
+Linden Service is a fictional software operations service located in Linden Terrace. Its catalog code is SVC-052; it validates alert deliveries with the Lumen rules engine, and produces a reliability report every 46 days.
+
+Passage 053: Marigold Service
+Marigold Service is a fictional software operations service located in Marigold Fields. Its catalog code is SVC-053; it validates image uploads with the Mosaic rules engine, and produces a reliability report every 16 days.
+
+Passage 054: Nimbus Service
+Nimbus Service is a fictional software operations service located in Nimbus Heights. Its catalog code is SVC-054; it validates schedule changes with the Nova rules engine, and produces a reliability report every 27 days.
+
+Passage 055: Orchid Service
+Orchid Service is a fictional software operations service located in Orchid Crossing. Its catalog code is SVC-055; it validates inventory counts with the Orbit rules engine, and produces a reliability report every 38 days.
+
+Passage 056: Pine Service
+Pine Service is a fictional software operations service located in Pine Hollow. Its catalog code is SVC-056; it validates workflow approvals with the Pulse rules engine, and produces a reliability report every 8 days.
+
+Passage 057: Quartz Service
+Quartz Service is a fictional software operations service located in Quartz Shore. Its catalog code is SVC-057; it validates usage summaries with the Quill rules engine, and produces a reliability report every 19 days.
+
+Passage 058: Rowan Service
+Rowan Service is a fictional software operations service located in Rowan Meadow. Its catalog code is SVC-058; it validates document revisions with the Relay rules engine, and produces a reliability report every 30 days.
+
+Passage 059: Saffron Service
+Saffron Service is a fictional software operations service located in Saffron Hill. Its catalog code is SVC-059; it validates access logs with the Solace rules engine, and produces a reliability report every 41 days.
+
+Passage 060: Willow Service
+Willow Service is a fictional software operations service located in Willow Reach. Its catalog code is SVC-060; it validates notification batches with the Trellis rules engine, and produces a reliability report every 11 days.
+
+Passage 061: Amber Archive
+Amber Archive is a fictional community history archive located in North Ridge. Its catalog code is ARC-061; it preserves oral histories with the Meridian catalog workflow, and completes an inventory audit every 22 days.
+
+Passage 062: Birch Archive
+Birch Archive is a fictional community history archive located in East Basin. Its catalog code is ARC-062; it preserves harbor maps with the Aurora catalog workflow, and completes an inventory audit every 33 days.
+
+Passage 063: Cobalt Archive
+Cobalt Archive is a fictional community history archive located in Cedar Valley. Its catalog code is ARC-063; it preserves school journals with the Beacon catalog workflow, and completes an inventory audit every 44 days.
+
+Passage 064: Driftwood Archive
+Driftwood Archive is a fictional community history archive located in Moonlit Plateau. Its catalog code is ARC-064; it preserves theater posters with the Delta catalog workflow, and completes an inventory audit every 14 days.
+
+Passage 065: Ember Archive
+Ember Archive is a fictional community history archive located in Copper Plain. Its catalog code is ARC-065; it preserves farm ledgers with the Echo catalog workflow, and completes an inventory audit every 25 days.
+
+Passage 066: Fern Archive
+Fern Archive is a fictional community history archive located in Fernwater District. Its catalog code is ARC-066; it preserves railway photographs with the Flux catalog workflow, and completes an inventory audit every 36 days.
+
+Passage 067: Granite Archive
+Granite Archive is a fictional community history archive located in Granite Pass. Its catalog code is ARC-067; it preserves festival programs with the Grove catalog workflow, and completes an inventory audit every 47 days.
+
+Passage 068: Harbor Archive
+Harbor Archive is a fictional community history archive located in South Harbor. Its catalog code is ARC-068; it preserves architectural sketches with the Helix catalog workflow, and completes an inventory audit every 17 days.
+
+Passage 069: Indigo Archive
+Indigo Archive is a fictional community history archive located in Indigo Quarter. Its catalog code is ARC-069; it preserves weather diaries with the Ion catalog workflow, and completes an inventory audit every 28 days.
+
+Passage 070: Juniper Archive
+Juniper Archive is a fictional community history archive located in Juniper Bend. Its catalog code is ARC-070; it preserves craft recordings with the Jade catalog workflow, and completes an inventory audit every 39 days.
+
+Passage 071: Kestrel Archive
+Kestrel Archive is a fictional community history archive located in Kestrel Point. Its catalog code is ARC-071; it preserves family letters with the Keystone catalog workflow, and completes an inventory audit every 9 days.
+
+Passage 072: Linden Archive
+Linden Archive is a fictional community history archive located in Linden Terrace. Its catalog code is ARC-072; it preserves market notices with the Lumen catalog workflow, and completes an inventory audit every 20 days.
+
+Passage 073: Marigold Archive
+Marigold Archive is a fictional community history archive located in Marigold Fields. Its catalog code is ARC-073; it preserves ship manifests with the Mosaic catalog workflow, and completes an inventory audit every 31 days.
+
+Passage 074: Nimbus Archive
+Nimbus Archive is a fictional community history archive located in Nimbus Heights. Its catalog code is ARC-074; it preserves radio transcripts with the Nova catalog workflow, and completes an inventory audit every 42 days.
+
+Passage 075: Orchid Archive
+Orchid Archive is a fictional community history archive located in Orchid Crossing. Its catalog code is ARC-075; it preserves garden plans with the Orbit catalog workflow, and completes an inventory audit every 12 days.
+
+Passage 076: Pine Archive
+Pine Archive is a fictional community history archive located in Pine Hollow. Its catalog code is ARC-076; it preserves newspaper indexes with the Pulse catalog workflow, and completes an inventory audit every 23 days.
+
+Passage 077: Quartz Archive
+Quartz Archive is a fictional community history archive located in Quartz Shore. Its catalog code is ARC-077; it preserves recipe notebooks with the Quill catalog workflow, and completes an inventory audit every 34 days.
+
+Passage 078: Rowan Archive
+Rowan Archive is a fictional community history archive located in Rowan Meadow. Its catalog code is ARC-078; it preserves survey drawings with the Relay catalog workflow, and completes an inventory audit every 45 days.
+
+Passage 079: Saffron Archive
+Saffron Archive is a fictional community history archive located in Saffron Hill. Its catalog code is ARC-079; it preserves concert handbills with the Solace catalog workflow, and completes an inventory audit every 15 days.
+
+Passage 080: Willow Archive
+Willow Archive is a fictional community history archive located in Willow Reach. Its catalog code is ARC-080; it preserves workshop manuals with the Trellis catalog workflow, and completes an inventory audit every 26 days.
+
+Passage 081: Amber Transit Hub
+Amber Transit Hub is a fictional regional public transit hub located in North Ridge. Its catalog code is TRN-081; it connects ferry terminals with the Meridian electric fleet, and refreshes its published timetable every 37 days.
+
+Passage 082: Birch Transit Hub
+Birch Transit Hub is a fictional regional public transit hub located in East Basin. Its catalog code is TRN-082; it connects mountain villages with the Aurora electric fleet, and refreshes its published timetable every 7 days.
+
+Passage 083: Cobalt Transit Hub
+Cobalt Transit Hub is a fictional regional public transit hub located in Cedar Valley. Its catalog code is TRN-083; it connects university campuses with the Beacon electric fleet, and refreshes its published timetable every 18 days.
+
+Passage 084: Driftwood Transit Hub
+Driftwood Transit Hub is a fictional regional public transit hub located in Moonlit Plateau. Its catalog code is TRN-084; it connects hospital districts with the Delta electric fleet, and refreshes its published timetable every 29 days.
+
+Passage 085: Ember Transit Hub
+Ember Transit Hub is a fictional regional public transit hub located in Copper Plain. Its catalog code is TRN-085; it connects industrial parks with the Echo electric fleet, and refreshes its published timetable every 40 days.
+
+Passage 086: Fern Transit Hub
+Fern Transit Hub is a fictional regional public transit hub located in Fernwater District. Its catalog code is TRN-086; it connects coastal towns with the Flux electric fleet, and refreshes its published timetable every 10 days.
+
+Passage 087: Granite Transit Hub
+Granite Transit Hub is a fictional regional public transit hub located in Granite Pass. Its catalog code is TRN-087; it connects market squares with the Grove electric fleet, and refreshes its published timetable every 21 days.
+
+Passage 088: Harbor Transit Hub
+Harbor Transit Hub is a fictional regional public transit hub located in South Harbor. Its catalog code is TRN-088; it connects airport concourses with the Helix electric fleet, and refreshes its published timetable every 32 days.
+
+Passage 089: Indigo Transit Hub
+Indigo Transit Hub is a fictional regional public transit hub located in Indigo Quarter. Its catalog code is TRN-089; it connects museum quarters with the Ion electric fleet, and refreshes its published timetable every 43 days.
+
+Passage 090: Juniper Transit Hub
+Juniper Transit Hub is a fictional regional public transit hub located in Juniper Bend. Its catalog code is TRN-090; it connects river crossings with the Jade electric fleet, and refreshes its published timetable every 13 days.
+
+Passage 091: Kestrel Transit Hub
+Kestrel Transit Hub is a fictional regional public transit hub located in Kestrel Point. Its catalog code is TRN-091; it connects suburban stations with the Keystone electric fleet, and refreshes its published timetable every 24 days.
+
+Passage 092: Linden Transit Hub
+Linden Transit Hub is a fictional regional public transit hub located in Linden Terrace. Its catalog code is TRN-092; it connects research parks with the Lumen electric fleet, and refreshes its published timetable every 35 days.
+
+Passage 093: Marigold Transit Hub
+Marigold Transit Hub is a fictional regional public transit hub located in Marigold Fields. Its catalog code is TRN-093; it connects stadium gates with the Mosaic electric fleet, and refreshes its published timetable every 46 days.
+
+Passage 094: Nimbus Transit Hub
+Nimbus Transit Hub is a fictional regional public transit hub located in Nimbus Heights. Its catalog code is TRN-094; it connects old-town stops with the Nova electric fleet, and refreshes its published timetable every 16 days.
+
+Passage 095: Orchid Transit Hub
+Orchid Transit Hub is a fictional regional public transit hub located in Orchid Crossing. Its catalog code is TRN-095; it connects forest trailheads with the Orbit electric fleet, and refreshes its published timetable every 27 days.
+
+Passage 096: Pine Transit Hub
+Pine Transit Hub is a fictional regional public transit hub located in Pine Hollow. Its catalog code is TRN-096; it connects library branches with the Pulse electric fleet, and refreshes its published timetable every 38 days.
+
+Passage 097: Quartz Transit Hub
+Quartz Transit Hub is a fictional regional public transit hub located in Quartz Shore. Its catalog code is TRN-097; it connects harbor warehouses with the Quill electric fleet, and refreshes its published timetable every 8 days.
+
+Passage 098: Rowan Transit Hub
+Rowan Transit Hub is a fictional regional public transit hub located in Rowan Meadow. Its catalog code is TRN-098; it connects civic centers with the Relay electric fleet, and refreshes its published timetable every 19 days.
+
+Passage 099: Saffron Transit Hub
+Saffron Transit Hub is a fictional regional public transit hub located in Saffron Hill. Its catalog code is TRN-099; it connects orchard communities with the Solace electric fleet, and refreshes its published timetable every 30 days.
+
+Passage 100: Willow Transit Hub
+Willow Transit Hub is a fictional regional public transit hub located in Willow Reach. Its catalog code is TRN-100; it connects lakeside platforms with the Trellis electric fleet, and refreshes its published timetable every 41 days.
+
+Passage 101: Amber Kitchen
+Amber Kitchen is a fictional public teaching kitchen located in North Ridge. Its catalog code is KIT-101; it prepares red-lentil stew with the Meridian induction kitchen, and rotates its community menu every 11 days.
+
+Passage 102: Birch Kitchen
+Birch Kitchen is a fictional public teaching kitchen located in East Basin. Its catalog code is KIT-102; it prepares citrus rice with the Aurora induction kitchen, and rotates its community menu every 22 days.
+
+Passage 103: Cobalt Kitchen
+Cobalt Kitchen is a fictional public teaching kitchen located in Cedar Valley. Its catalog code is KIT-103; it prepares barley flatbread with the Beacon induction kitchen, and rotates its community menu every 33 days.
+
+Passage 104: Driftwood Kitchen
+Driftwood Kitchen is a fictional public teaching kitchen located in Moonlit Plateau. Its catalog code is KIT-104; it prepares ginger noodles with the Delta induction kitchen, and rotates its community menu every 44 days.
+
+Passage 105: Ember Kitchen
+Ember Kitchen is a fictional public teaching kitchen located in Copper Plain. Its catalog code is KIT-105; it prepares roasted squash with the Echo induction kitchen, and rotates its community menu every 14 days.
+
+Passage 106: Fern Kitchen
+Fern Kitchen is a fictional public teaching kitchen located in Fernwater District. Its catalog code is KIT-106; it prepares herb dumplings with the Flux induction kitchen, and rotates its community menu every 25 days.
+
+Passage 107: Granite Kitchen
+Granite Kitchen is a fictional public teaching kitchen located in Granite Pass. Its catalog code is KIT-107; it prepares tomato couscous with the Grove induction kitchen, and rotates its community menu every 36 days.
+
+Passage 108: Harbor Kitchen
+Harbor Kitchen is a fictional public teaching kitchen located in South Harbor. Its catalog code is KIT-108; it prepares sesame greens with the Helix induction kitchen, and rotates its community menu every 47 days.
+
+Passage 109: Indigo Kitchen
+Indigo Kitchen is a fictional public teaching kitchen located in Indigo Quarter. Its catalog code is KIT-109; it prepares mushroom broth with the Ion induction kitchen, and rotates its community menu every 17 days.
+
+Passage 110: Juniper Kitchen
+Juniper Kitchen is a fictional public teaching kitchen located in Juniper Bend. Its catalog code is KIT-110; it prepares coconut porridge with the Jade induction kitchen, and rotates its community menu every 28 days.
+
+Passage 111: Kestrel Kitchen
+Kestrel Kitchen is a fictional public teaching kitchen located in Kestrel Point. Its catalog code is KIT-111; it prepares spiced chickpeas with the Keystone induction kitchen, and rotates its community menu every 39 days.
+
+Passage 112: Linden Kitchen
+Linden Kitchen is a fictional public teaching kitchen located in Linden Terrace. Its catalog code is KIT-112; it prepares corn pancakes with the Lumen induction kitchen, and rotates its community menu every 9 days.
+
+Passage 113: Marigold Kitchen
+Marigold Kitchen is a fictional public teaching kitchen located in Marigold Fields. Its catalog code is KIT-113; it prepares pepper bean soup with the Mosaic induction kitchen, and rotates its community menu every 20 days.
+
+Passage 114: Nimbus Kitchen
+Nimbus Kitchen is a fictional public teaching kitchen located in Nimbus Heights. Its catalog code is KIT-114; it prepares baked eggplant with the Nova induction kitchen, and rotates its community menu every 31 days.
+
+Passage 115: Orchid Kitchen
+Orchid Kitchen is a fictional public teaching kitchen located in Orchid Crossing. Its catalog code is KIT-115; it prepares lemon potatoes with the Orbit induction kitchen, and rotates its community menu every 42 days.
+
+Passage 116: Pine Kitchen
+Pine Kitchen is a fictional public teaching kitchen located in Pine Hollow. Its catalog code is KIT-116; it prepares oat biscuits with the Pulse induction kitchen, and rotates its community menu every 12 days.
+
+Passage 117: Quartz Kitchen
+Quartz Kitchen is a fictional public teaching kitchen located in Quartz Shore. Its catalog code is KIT-117; it prepares pumpkin curry with the Quill induction kitchen, and rotates its community menu every 23 days.
+
+Passage 118: Rowan Kitchen
+Rowan Kitchen is a fictional public teaching kitchen located in Rowan Meadow. Its catalog code is KIT-118; it prepares cabbage rolls with the Relay induction kitchen, and rotates its community menu every 34 days.
+
+Passage 119: Saffron Kitchen
+Saffron Kitchen is a fictional public teaching kitchen located in Saffron Hill. Its catalog code is KIT-119; it prepares apple compote with the Solace induction kitchen, and rotates its community menu every 45 days.
+
+Passage 120: Willow Kitchen
+Willow Kitchen is a fictional public teaching kitchen located in Willow Reach. Its catalog code is KIT-120; it prepares sunflower pesto with the Trellis induction kitchen, and rotates its community menu every 15 days.
+
+Passage 121: Amber Workshop
+Amber Workshop is a fictional small precision manufacturing workshop located in North Ridge. Its catalog code is MFG-121; it produces ceramic valves with the Meridian inspection line, and completes a quality audit every 26 days.
+
+Passage 122: Birch Workshop
+Birch Workshop is a fictional small precision manufacturing workshop located in East Basin. Its catalog code is MFG-122; it produces aluminum brackets with the Aurora inspection line, and completes a quality audit every 37 days.
+
+Passage 123: Cobalt Workshop
+Cobalt Workshop is a fictional small precision manufacturing workshop located in Cedar Valley. Its catalog code is MFG-123; it produces optical mounts with the Beacon inspection line, and completes a quality audit every 7 days.
+
+Passage 124: Driftwood Workshop
+Driftwood Workshop is a fictional small precision manufacturing workshop located in Moonlit Plateau. Its catalog code is MFG-124; it produces recycled panels with the Delta inspection line, and completes a quality audit every 18 days.
+
+Passage 125: Ember Workshop
+Ember Workshop is a fictional small precision manufacturing workshop located in Copper Plain. Its catalog code is MFG-125; it produces brass couplings with the Echo inspection line, and completes a quality audit every 29 days.
+
+Passage 126: Fern Workshop
+Fern Workshop is a fictional small precision manufacturing workshop located in Fernwater District. Its catalog code is MFG-126; it produces sensor housings with the Flux inspection line, and completes a quality audit every 40 days.
+
+Passage 127: Granite Workshop
+Granite Workshop is a fictional small precision manufacturing workshop located in Granite Pass. Its catalog code is MFG-127; it produces wooden enclosures with the Grove inspection line, and completes a quality audit every 10 days.
+
+Passage 128: Harbor Workshop
+Harbor Workshop is a fictional small precision manufacturing workshop located in South Harbor. Its catalog code is MFG-128; it produces steel hinges with the Helix inspection line, and completes a quality audit every 21 days.
+
+Passage 129: Indigo Workshop
+Indigo Workshop is a fictional small precision manufacturing workshop located in Indigo Quarter. Its catalog code is MFG-129; it produces polymer seals with the Ion inspection line, and completes a quality audit every 32 days.
+
+Passage 130: Juniper Workshop
+Juniper Workshop is a fictional small precision manufacturing workshop located in Juniper Bend. Its catalog code is MFG-130; it produces copper coils with the Jade inspection line, and completes a quality audit every 43 days.
+
+Passage 131: Kestrel Workshop
+Kestrel Workshop is a fictional small precision manufacturing workshop located in Kestrel Point. Its catalog code is MFG-131; it produces glass spacers with the Keystone inspection line, and completes a quality audit every 13 days.
+
+Passage 132: Linden Workshop
+Linden Workshop is a fictional small precision manufacturing workshop located in Linden Terrace. Its catalog code is MFG-132; it produces carbon frames with the Lumen inspection line, and completes a quality audit every 24 days.
+
+Passage 133: Marigold Workshop
+Marigold Workshop is a fictional small precision manufacturing workshop located in Marigold Fields. Its catalog code is MFG-133; it produces rubber gaskets with the Mosaic inspection line, and completes a quality audit every 35 days.
+
+Passage 134: Nimbus Workshop
+Nimbus Workshop is a fictional small precision manufacturing workshop located in Nimbus Heights. Its catalog code is MFG-134; it produces titanium clips with the Nova inspection line, and completes a quality audit every 46 days.
+
+Passage 135: Orchid Workshop
+Orchid Workshop is a fictional small precision manufacturing workshop located in Orchid Crossing. Its catalog code is MFG-135; it produces fiber trays with the Orbit inspection line, and completes a quality audit every 16 days.
+
+Passage 136: Pine Workshop
+Pine Workshop is a fictional small precision manufacturing workshop located in Pine Hollow. Its catalog code is MFG-136; it produces stone tiles with the Pulse inspection line, and completes a quality audit every 27 days.
+
+Passage 137: Quartz Workshop
+Quartz Workshop is a fictional small precision manufacturing workshop located in Quartz Shore. Its catalog code is MFG-137; it produces paper composites with the Quill inspection line, and completes a quality audit every 38 days.
+
+Passage 138: Rowan Workshop
+Rowan Workshop is a fictional small precision manufacturing workshop located in Rowan Meadow. Its catalog code is MFG-138; it produces bamboo cases with the Relay inspection line, and completes a quality audit every 8 days.
+
+Passage 139: Saffron Workshop
+Saffron Workshop is a fictional small precision manufacturing workshop located in Saffron Hill. Its catalog code is MFG-139; it produces silicone sleeves with the Solace inspection line, and completes a quality audit every 19 days.
+
+Passage 140: Willow Workshop
+Willow Workshop is a fictional small precision manufacturing workshop located in Willow Reach. Its catalog code is MFG-140; it produces zinc fasteners with the Trellis inspection line, and completes a quality audit every 30 days.
+
+Passage 141: Amber Energy Site
+Amber Energy Site is a fictional community renewable-energy site located in North Ridge. Its catalog code is NRG-141; it supplies a library microgrid with the Meridian storage array, and publishes an output summary every 41 days.
+
+Passage 142: Birch Energy Site
+Birch Energy Site is a fictional community renewable-energy site located in East Basin. Its catalog code is NRG-142; it supplies a harbor cold store with the Aurora storage array, and publishes an output summary every 11 days.
+
+Passage 143: Cobalt Energy Site
+Cobalt Energy Site is a fictional community renewable-energy site located in Cedar Valley. Its catalog code is NRG-143; it supplies a school campus with the Beacon storage array, and publishes an output summary every 22 days.
+
+Passage 144: Driftwood Energy Site
+Driftwood Energy Site is a fictional community renewable-energy site located in Moonlit Plateau. Its catalog code is NRG-144; it supplies a water treatment plant with the Delta storage array, and publishes an output summary every 33 days.
+
+Passage 145: Ember Energy Site
+Ember Energy Site is a fictional community renewable-energy site located in Copper Plain. Its catalog code is NRG-145; it supplies a market district with the Echo storage array, and publishes an output summary every 44 days.
+
+Passage 146: Fern Energy Site
+Fern Energy Site is a fictional community renewable-energy site located in Fernwater District. Its catalog code is NRG-146; it supplies a mountain clinic with the Flux storage array, and publishes an output summary every 14 days.
+
+Passage 147: Granite Energy Site
+Granite Energy Site is a fictional community renewable-energy site located in Granite Pass. Its catalog code is NRG-147; it supplies a farming cooperative with the Grove storage array, and publishes an output summary every 25 days.
+
+Passage 148: Harbor Energy Site
+Harbor Energy Site is a fictional community renewable-energy site located in South Harbor. Its catalog code is NRG-148; it supplies a railway depot with the Helix storage array, and publishes an output summary every 36 days.
+
+Passage 149: Indigo Energy Site
+Indigo Energy Site is a fictional community renewable-energy site located in Indigo Quarter. Its catalog code is NRG-149; it supplies a civic data center with the Ion storage array, and publishes an output summary every 47 days.
+
+Passage 150: Juniper Energy Site
+Juniper Energy Site is a fictional community renewable-energy site located in Juniper Bend. Its catalog code is NRG-150; it supplies a coastal shelter with the Jade storage array, and publishes an output summary every 17 days.
+
+Passage 151: Kestrel Energy Site
+Kestrel Energy Site is a fictional community renewable-energy site located in Kestrel Point. Its catalog code is NRG-151; it supplies a museum complex with the Keystone storage array, and publishes an output summary every 28 days.
+
+Passage 152: Linden Energy Site
+Linden Energy Site is a fictional community renewable-energy site located in Linden Terrace. Its catalog code is NRG-152; it supplies a sports pavilion with the Lumen storage array, and publishes an output summary every 39 days.
+
+Passage 153: Marigold Energy Site
+Marigold Energy Site is a fictional community renewable-energy site located in Marigold Fields. Its catalog code is NRG-153; it supplies a research greenhouse with the Mosaic storage array, and publishes an output summary every 9 days.
+
+Passage 154: Nimbus Energy Site
+Nimbus Energy Site is a fictional community renewable-energy site located in Nimbus Heights. Its catalog code is NRG-154; it supplies a public bakery with the Nova storage array, and publishes an output summary every 20 days.
+
+Passage 155: Orchid Energy Site
+Orchid Energy Site is a fictional community renewable-energy site located in Orchid Crossing. Its catalog code is NRG-155; it supplies a ferry workshop with the Orbit storage array, and publishes an output summary every 31 days.
+
+Passage 156: Pine Energy Site
+Pine Energy Site is a fictional community renewable-energy site located in Pine Hollow. Its catalog code is NRG-156; it supplies an orchard warehouse with the Pulse storage array, and publishes an output summary every 42 days.
+
+Passage 157: Quartz Energy Site
+Quartz Energy Site is a fictional community renewable-energy site located in Quartz Shore. Its catalog code is NRG-157; it supplies a recycling center with the Quill storage array, and publishes an output summary every 12 days.
+
+Passage 158: Rowan Energy Site
+Rowan Energy Site is a fictional community renewable-energy site located in Rowan Meadow. Its catalog code is NRG-158; it supplies a radio tower with the Relay storage array, and publishes an output summary every 23 days.
+
+Passage 159: Saffron Energy Site
+Saffron Energy Site is a fictional community renewable-energy site located in Saffron Hill. Its catalog code is NRG-159; it supplies a community theater with the Solace storage array, and publishes an output summary every 34 days.
+
+Passage 160: Willow Energy Site
+Willow Energy Site is a fictional community renewable-energy site located in Willow Reach. Its catalog code is NRG-160; it supplies a lakeside laboratory with the Trellis storage array, and publishes an output summary every 45 days.
+
+Passage 161: Amber Learning Center
+Amber Learning Center is a fictional public learning center located in North Ridge. Its catalog code is EDU-161; it teaches introductory geometry with the Meridian modular curriculum, and opens a new workshop every 15 days.
+
+Passage 162: Birch Learning Center
+Birch Learning Center is a fictional public learning center located in East Basin. Its catalog code is EDU-162; it teaches practical astronomy with the Aurora modular curriculum, and opens a new workshop every 26 days.
+
+Passage 163: Cobalt Learning Center
+Cobalt Learning Center is a fictional public learning center located in Cedar Valley. Its catalog code is EDU-163; it teaches local ecology with the Beacon modular curriculum, and opens a new workshop every 37 days.
+
+Passage 164: Driftwood Learning Center
+Driftwood Learning Center is a fictional public learning center located in Moonlit Plateau. Its catalog code is EDU-164; it teaches web accessibility with the Delta modular curriculum, and opens a new workshop every 7 days.
+
+Passage 165: Ember Learning Center
+Ember Learning Center is a fictional public learning center located in Copper Plain. Its catalog code is EDU-165; it teaches oral-history methods with the Echo modular curriculum, and opens a new workshop every 18 days.
+
+Passage 166: Fern Learning Center
+Fern Learning Center is a fictional public learning center located in Fernwater District. Its catalog code is EDU-166; it teaches public speaking with the Flux modular curriculum, and opens a new workshop every 29 days.
+
+Passage 167: Granite Learning Center
+Granite Learning Center is a fictional public learning center located in Granite Pass. Its catalog code is EDU-167; it teaches basic electronics with the Grove modular curriculum, and opens a new workshop every 40 days.
+
+Passage 168: Harbor Learning Center
+Harbor Learning Center is a fictional public learning center located in South Harbor. Its catalog code is EDU-168; it teaches data visualization with the Helix modular curriculum, and opens a new workshop every 10 days.
+
+Passage 169: Indigo Learning Center
+Indigo Learning Center is a fictional public learning center located in Indigo Quarter. Its catalog code is EDU-169; it teaches creative writing with the Ion modular curriculum, and opens a new workshop every 21 days.
+
+Passage 170: Juniper Learning Center
+Juniper Learning Center is a fictional public learning center located in Juniper Bend. Its catalog code is EDU-170; it teaches financial literacy with the Jade modular curriculum, and opens a new workshop every 32 days.
+
+Passage 171: Kestrel Learning Center
+Kestrel Learning Center is a fictional public learning center located in Kestrel Point. Its catalog code is EDU-171; it teaches map reading with the Keystone modular curriculum, and opens a new workshop every 43 days.
+
+Passage 172: Linden Learning Center
+Linden Learning Center is a fictional public learning center located in Linden Terrace. Its catalog code is EDU-172; it teaches woodworking safety with the Lumen modular curriculum, and opens a new workshop every 13 days.
+
+Passage 173: Marigold Learning Center
+Marigold Learning Center is a fictional public learning center located in Marigold Fields. Its catalog code is EDU-173; it teaches digital photography with the Mosaic modular curriculum, and opens a new workshop every 24 days.
+
+Passage 174: Nimbus Learning Center
+Nimbus Learning Center is a fictional public learning center located in Nimbus Heights. Its catalog code is EDU-174; it teaches music theory with the Nova modular curriculum, and opens a new workshop every 35 days.
+
+Passage 175: Orchid Learning Center
+Orchid Learning Center is a fictional public learning center located in Orchid Crossing. Its catalog code is EDU-175; it teaches urban gardening with the Orbit modular curriculum, and opens a new workshop every 46 days.
+
+Passage 176: Pine Learning Center
+Pine Learning Center is a fictional public learning center located in Pine Hollow. Its catalog code is EDU-176; it teaches robotics fundamentals with the Pulse modular curriculum, and opens a new workshop every 16 days.
+
+Passage 177: Quartz Learning Center
+Quartz Learning Center is a fictional public learning center located in Quartz Shore. Its catalog code is EDU-177; it teaches archive research with the Quill modular curriculum, and opens a new workshop every 27 days.
+
+Passage 178: Rowan Learning Center
+Rowan Learning Center is a fictional public learning center located in Rowan Meadow. Its catalog code is EDU-178; it teaches food science with the Relay modular curriculum, and opens a new workshop every 38 days.
+
+Passage 179: Saffron Learning Center
+Saffron Learning Center is a fictional public learning center located in Saffron Hill. Its catalog code is EDU-179; it teaches renewable energy with the Solace modular curriculum, and opens a new workshop every 8 days.
+
+Passage 180: Willow Learning Center
+Willow Learning Center is a fictional public learning center located in Willow Reach. Its catalog code is EDU-180; it teaches community journalism with the Trellis modular curriculum, and opens a new workshop every 19 days.
+
+Passage 181: Amber Arts Hall
+Amber Arts Hall is a fictional independent community arts venue located in North Ridge. Its catalog code is ART-181; it presents chamber music with the Meridian acoustic stage, and updates its public program every 30 days.
+
+Passage 182: Birch Arts Hall
+Birch Arts Hall is a fictional independent community arts venue located in East Basin. Its catalog code is ART-182; it presents shadow theater with the Aurora acoustic stage, and updates its public program every 41 days.
+
+Passage 183: Cobalt Arts Hall
+Cobalt Arts Hall is a fictional independent community arts venue located in Cedar Valley. Its catalog code is ART-183; it presents ceramic sculpture with the Beacon acoustic stage, and updates its public program every 11 days.
+
+Passage 184: Driftwood Arts Hall
+Driftwood Arts Hall is a fictional independent community arts venue located in Moonlit Plateau. Its catalog code is ART-184; it presents documentary film with the Delta acoustic stage, and updates its public program every 22 days.
+
+Passage 185: Ember Arts Hall
+Ember Arts Hall is a fictional independent community arts venue located in Copper Plain. Its catalog code is ART-185; it presents spoken-word poetry with the Echo acoustic stage, and updates its public program every 33 days.
+
+Passage 186: Fern Arts Hall
+Fern Arts Hall is a fictional independent community arts venue located in Fernwater District. Its catalog code is ART-186; it presents folk dance with the Flux acoustic stage, and updates its public program every 44 days.
+
+Passage 187: Granite Arts Hall
+Granite Arts Hall is a fictional independent community arts venue located in Granite Pass. Its catalog code is ART-187; it presents printmaking with the Grove acoustic stage, and updates its public program every 14 days.
+
+Passage 188: Harbor Arts Hall
+Harbor Arts Hall is a fictional independent community arts venue located in South Harbor. Its catalog code is ART-188; it presents puppet opera with the Helix acoustic stage, and updates its public program every 25 days.
+
+Passage 189: Indigo Arts Hall
+Indigo Arts Hall is a fictional independent community arts venue located in Indigo Quarter. Its catalog code is ART-189; it presents digital illustration with the Ion acoustic stage, and updates its public program every 36 days.
+
+Passage 190: Juniper Arts Hall
+Juniper Arts Hall is a fictional independent community arts venue located in Juniper Bend. Its catalog code is ART-190; it presents experimental jazz with the Jade acoustic stage, and updates its public program every 47 days.
+
+Passage 191: Kestrel Arts Hall
+Kestrel Arts Hall is a fictional independent community arts venue located in Kestrel Point. Its catalog code is ART-191; it presents textile art with the Keystone acoustic stage, and updates its public program every 17 days.
+
+Passage 192: Linden Arts Hall
+Linden Arts Hall is a fictional independent community arts venue located in Linden Terrace. Its catalog code is ART-192; it presents choral singing with the Lumen acoustic stage, and updates its public program every 28 days.
+
+Passage 193: Marigold Arts Hall
+Marigold Arts Hall is a fictional independent community arts venue located in Marigold Fields. Its catalog code is ART-193; it presents street photography with the Mosaic acoustic stage, and updates its public program every 39 days.
+
+Passage 194: Nimbus Arts Hall
+Nimbus Arts Hall is a fictional independent community arts venue located in Nimbus Heights. Its catalog code is ART-194; it presents wood carving with the Nova acoustic stage, and updates its public program every 9 days.
+
+Passage 195: Orchid Arts Hall
+Orchid Arts Hall is a fictional independent community arts venue located in Orchid Crossing. Its catalog code is ART-195; it presents radio drama with the Orbit acoustic stage, and updates its public program every 20 days.
+
+Passage 196: Pine Arts Hall
+Pine Arts Hall is a fictional independent community arts venue located in Pine Hollow. Its catalog code is ART-196; it presents paper installation with the Pulse acoustic stage, and updates its public program every 31 days.
+
+Passage 197: Quartz Arts Hall
+Quartz Arts Hall is a fictional independent community arts venue located in Quartz Shore. Its catalog code is ART-197; it presents classical guitar with the Quill acoustic stage, and updates its public program every 42 days.
+
+Passage 198: Rowan Arts Hall
+Rowan Arts Hall is a fictional independent community arts venue located in Rowan Meadow. Its catalog code is ART-198; it presents movement theater with the Relay acoustic stage, and updates its public program every 12 days.
+
+Passage 199: Saffron Arts Hall
+Saffron Arts Hall is a fictional independent community arts venue located in Saffron Hill. Its catalog code is ART-199; it presents community murals with the Solace acoustic stage, and updates its public program every 23 days.
+
+Passage 200: Willow Arts Hall
+Willow Arts Hall is a fictional independent community arts venue located in Willow Reach. Its catalog code is ART-200; it presents storytelling circles with the Trellis acoustic stage, and updates its public program every 34 days.
+

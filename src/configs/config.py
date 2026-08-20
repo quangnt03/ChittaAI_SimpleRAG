@@ -11,10 +11,10 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 
 class Settings(BaseSettings):
-    """Typed application settings loaded from the project-level ``.env`` file."""
+    """Typed application settings loaded from ``.env.local``."""
 
     model_config = SettingsConfigDict(
-        env_file=PROJECT_ROOT / ".env",
+        env_file=PROJECT_ROOT / ".env.local",
         env_file_encoding="utf-8",
         case_sensitive=False,
         extra="ignore",
@@ -23,6 +23,9 @@ class Settings(BaseSettings):
     openai_api_key: SecretStr
     openai_chat_model: str = "gpt-4o-mini"
     openai_embedding_model: str = "text-embedding-3-small"
+    milvus_url: str = "http://localhost"
+    milvus_port: int = Field(default=19530, ge=1, le=65535)
+    milvus_collection: str = "rag_documents"
     chunk_size: int = Field(default=1000, gt=0)
     chunk_overlap: int = Field(default=200, ge=0)
 
